@@ -12,4 +12,5 @@ tags:
 4. Scroll down to the sermon and copy Sermon Title and Preacher Name. Paste them into the Google Doc where you are creating your title for the event
    ![[Pasted image 20251021204052.png]]
 5. Follow [[Event Title Template]] to make sure your Titles follow the correct format
+	1. ![[Event Title Template]]
 
