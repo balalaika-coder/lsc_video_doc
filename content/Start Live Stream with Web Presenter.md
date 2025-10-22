@@ -13,4 +13,9 @@ Learn how to start live streaming with Blackmagic Web Presenter
 3. Make sure Restream.io preset is selected
 4. Paste key you copied on [[Restream.io]]
 5. SAVE
-6. ...Work In Progress...
+6. When ready to go live, Click "ON AIR"
+   ![[Pasted image 20251022141101.png]]
+7. Signal will be sent to [[Restream.io]] and distributed to all enabled channels.
+8. When ready to end the stream, press "OFF" button.
+
+You also have an option to go "ON AIR" and "OFF" by using the Blackmagic Web Presenter app. Use what is more convenient for you.
