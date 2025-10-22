@@ -13,6 +13,6 @@ This page give you step-by-stop directions how to setup live stream using Restre
 3. Access to [[Restream.io]]
 
 ## Steps
-1. [[Create Event Titles using Planning Center]]
-2. [[Create Live Stream Events using Restream.io]]
-3. [[Start Live Stream using Web Presenter]]
+1. [[Create Event Titles with Planning Center]]
+2. [[Create Live Stream Events with Restream.io]]
+3. [[Start Live Stream with Web Presenter]]

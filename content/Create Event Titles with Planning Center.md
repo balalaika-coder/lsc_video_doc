@@ -1,5 +1,5 @@
 ---
-title: Create Event Titles using Planning Center
+title: Create Event Titles with Planning Center
 draft: false
 tags:
   - instructions
