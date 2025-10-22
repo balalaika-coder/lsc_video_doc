@@ -10,4 +10,4 @@ The main benefit of using Restream.io vs. streaming directly to YouTube is it al
 It also makes it very simple to setup each live stream event by automating event creation.
 
 #### Related
-[[Setup Events on Restream.io]]
+[[Create Live Stream Events using Restream.io]]
