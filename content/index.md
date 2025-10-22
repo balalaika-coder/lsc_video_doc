@@ -11,3 +11,5 @@ You can use the **Explorer section** on the left to navigate between pages. You 
 ### Quick Links
 #### [[Turn everything on before service]]
 #### [[Setup Live Stream]]
+
+#### [[Team Structure]]
