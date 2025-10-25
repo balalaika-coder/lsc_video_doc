@@ -9,16 +9,16 @@ To help things run smoothly and make decisions together, we’ve set up a clear 
 
 Our communication method of choice is our group in Telegram or Telegram DM's.
 
-#### AVL Director
+## AVL Director
 Overseeing all of Audio and Video departments, including graphics 
 - Mark Vitriachenko
 
-#### Video Department Directors
+## Video Department Directors
 Responsible for Video Department operations
 - Yevgeniy Lukomskiy
 - Oleg Timoshchuk
 
-#### Video Department Leadership Team
+## Video Department Leadership Team
 Responsible for Video Department operations and decision making
 - Mark Vitriachenko
 - Oleg Timoshchuk
