@@ -15,7 +15,8 @@ Overseeing all of Audio and Video departments, including graphics
 
 ## Video Department Directors
 Responsible for Video Department operations
-- Yevgeniy Lukomskiy (https://t.me/yevgeniyvl)
+- Yevgeniy Lukomskiy 
+	- Telegram: https://t.me/yevgeniyvl
 - Oleg Timoshchuk
 
 ## Video Department Leadership Team
