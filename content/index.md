@@ -1,5 +1,6 @@
 ---
 title: LSC Video - Home
+aliases:
 ---
 # Welcome
 This is the Home for all things LSC Video. Here you will find all the information about our equipment, our processes, how to turn things on, how to operate each camera or device, and who to contact if you have issues.
@@ -11,5 +12,4 @@ You can use the **Explorer section** on the left to navigate between pages. You 
 ### Quick Links
 #### [[Turn everything on before service]]
 #### [[Setup Live Stream]]
-
 #### [[Team Structure]]

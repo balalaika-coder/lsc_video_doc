@@ -1,3 +1,10 @@
+---
+title: Turn everything on before service
+draft: false
+tags:
+  - instructions
+---
+
 If you find yourself in a situation where you need to turn on all the equipment to prepare for filming, this guide if for you.
 
 1. Turn on the MAIN POWER SWITCH in our Production room. This switch is located next to the electrical panel in the Production Room.

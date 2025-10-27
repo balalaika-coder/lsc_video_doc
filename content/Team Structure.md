@@ -7,7 +7,7 @@ Our team is made up of volunteers, all here for one reason — to serve our Lord
 
 To help things run smoothly and make decisions together, we’ve set up a clear team structure. This way, you’ll know exactly who to reach out to if you have questions, feedback, or want to know who’s responsible for what.
 
-Our communication method of choice is our group in Telegram or Telegram DM's.
+**Our preferred communication method of choice is our group chat in Telegram or Telegram DM's.**
 
 ## AVL Director
 Overseeing all of Audio and Video departments, including graphics 
@@ -15,7 +15,7 @@ Overseeing all of Audio and Video departments, including graphics
 
 ## Video Department Directors
 Responsible for Video Department operations
-- Yevgeniy Lukomskiy
+- Yevgeniy Lukomskiy (https://t.me/yevgeniyvl)
 - Oleg Timoshchuk
 
 ## Video Department Leadership Team
