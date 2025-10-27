@@ -17,5 +17,5 @@ This page give you step-by-stop directions how to setup live stream using Restre
 2. [[Create Live Stream Events with Restream.io]]
 3. [[Start Live Stream with Web Presenter]]
 
-## Video
+## Video Instructions
 <iframe title="Restream.io Instructions for setting up Live Stream" src="https://www.youtube.com/embed/KldcXsDMbXM?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
