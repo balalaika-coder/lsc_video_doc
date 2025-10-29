@@ -8,6 +8,7 @@ tags:
 If you find yourself in a situation where you need to turn on all the equipment to prepare for filming, this guide if for you.
 
 1. Turn on the MAIN POWER SWITCH in our Production room. This switch is located next to the electrical panel in the Production Room.
+   ![[PXL_20251028_214320811_1.jpg|400]]
 	1. Turns on electrical outlets where all cameras plug in.
 	2. Turns on TVs, switcher board and all needed equipment at the production desk
 2. Walk to every camera and check the following:

@@ -12,3 +12,4 @@ Blackmagic Web Presenter is a hardware device we use to send our video signal to
 
 ## Where is it installed?
 It is installed on the left side of our Production Desk, above the SSD recorder.
+![[PXL_20251029_225331518_1.jpg]]
