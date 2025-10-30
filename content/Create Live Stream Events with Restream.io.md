@@ -15,3 +15,6 @@ tags:
    ![[Pasted image 20251022135537.png]]
 6. Paste the key to the [[Web Presenter]] software and then [[Start Live Stream with Web Presenter]]
 7. If you are creating an event for a future date or time, you can [[Schedule Future Event with Restream.io]]
+
+### Video
+<iframe title="Restream.io Instructions for setting up Live Stream" src="https://www.youtube.com/embed/KldcXsDMbXM?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
